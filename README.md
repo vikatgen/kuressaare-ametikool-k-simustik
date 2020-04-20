@@ -11,10 +11,6 @@ _Ingmar & Gen - TA19_
 - Mees
 - Naine
 - Muu
-- Mis me teada saame?
-  - Protsentuaalne ülevaade soost (sugust) õppesuunal.
-  - Meeste ja naiste erinevus õppetöös
-  - Kes on aktiivsemad vastajad meie vormile.
 
 #### Milline on Teie õppeliik?
 
