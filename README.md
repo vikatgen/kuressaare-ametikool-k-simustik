@@ -40,7 +40,7 @@ _Ingmar & Gen - TA19_
 - Iseseisvalt kuulates/lugedes materjale
 - Kooliprojektid
 
-#### Kuidas hindate eriala omandamise raskusastet? (1-10)
+#### Kuidas hindate eriala omandamise raskusastet? (1-5)
 
 #### Kas lisaks koolile kasutate ka muid õppematerjale. (Kursused, YouTube, kirjandus..)
 
@@ -55,6 +55,6 @@ _Ingmar & Gen - TA19_
 - Hüppelauana mõnele muule õppesuunale
 - Muu
 
-#### Kas olete õppekorraldusega rahul? (1 - 10).
+#### Kas olete õppekorraldusega rahul? (1 - 5).
 
 - Kui Teil on ettepanekuid õppekorraldusele, siis lisa kommentaar.
