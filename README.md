@@ -44,7 +44,7 @@ _Ingmar & Gen - TA19_
 - Iseseisvalt kuulates/lugedes materjale
 - Kooliprojektid
 
-#### Kuidas hindad eriala omandamise raskusastet? (1-10)
+#### Kuidas hindate eriala omandamise raskusastet? (1-10)
 
 #### Kas lisaks koolile kasutate ka muid õppematerjale. (Kursused, YouTube, kirjandus..)
 
@@ -52,7 +52,7 @@ _Ingmar & Gen - TA19_
 - Ei
 - Kui "Jah", siis palun täpsustage.
 
-#### Kuidas sa kavatsed kasutada Kuressaare Ametkoolist saadud tarkust järgmise 5 aasta jooksul?
+#### Kuidas Te kavatsete kasutada Kuressaare Ametkoolist saadud tarkust järgmise 5 aasta jooksul?
 
 - Leida konkurentsivõimeline töökoht
 - Arendada ise valmis järgmine Eesti Nokia
